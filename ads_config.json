@@ -1,11 +1,17 @@
-"banner": {
+{
+  "banner": {
     "image_url": "https://tousif1005.github.io/custom-Ads/Bannerad.jpg",
-    "click_url": "https://track.appsecmedia.com/c?o=21163235&m=2642&a=626986&aff_click_id={aff_click_id}&sub_aff_id={12}"
+    "click_url": "https://track.appsecmedia.com/c?o=21163235&m=2642&a=626986&aff_click_id={aff_click_id}&sub_aff_id={12}",
+    "video_url": ""
   },
   "interstitial": {
     "image_url": "https://tousif1005.github.io/custom-Ads/interstitialad.jpg",
-    "click_url": "https://appsecmedia.com/"
+    "click_url": "https://appsecmedia.com",
+    "video_url": ""
   },
   "video": {
     "video_url": "https://tousif1005.github.io/custom-Ads/videoad.mp4",
-    "click_url": "https://appsecmedia.com/e"
+    "click_url": "https://appsecmedia.com/e",
+    "image_url": ""
+  }
+}
